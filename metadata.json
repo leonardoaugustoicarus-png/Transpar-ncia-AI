@@ -1,0 +1,7 @@
+{
+  "name": "Transparencia AI",
+  "description": "Uma ferramenta profissional alimentada pelo Gemini para remover fundos e criar transparência em suas imagens com precisão.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
